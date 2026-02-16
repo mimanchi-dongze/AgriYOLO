@@ -1,0 +1,66 @@
+# Matplotlib style for Nature-like scientific publications
+# Adapted from SciencePlots and Nature guidelines
+
+# Figure layout
+figure.figsize: 3.5, 3.5  # Scale for single-column (89mm)
+figure.facecolor: white
+figure.edgecolor: white
+figure.dpi: 300
+
+# Font config (Nature prefers sans-serif)
+font.family: sans-serif
+font.sans-serif: Arial, Helvetica, DejaVu Sans, Bitstream Vera Sans, Computer Modern Sans Serif
+font.size: 8
+text.color: black
+
+# Axes
+axes.linewidth: 0.5
+axes.grid: False        # Default no grid (add manually if needed)
+axes.titlesize: 8
+axes.labelsize: 7
+axes.labelcolor: black
+axes.edgecolor: black
+axes.axisbelow: True    # Grid behind data
+axes.spines.top: False  # Open top/right spines for cleaner look
+axes.spines.right: False
+
+# Ticks (Inward ticks are standard in physics/chemistry, mostly used in Nature)
+xtick.major.size: 3
+xtick.minor.size: 1.5
+xtick.major.width: 0.5
+xtick.minor.width: 0.5
+xtick.major.pad: 2
+xtick.minor.pad: 2
+xtick.color: black
+xtick.labelsize: 7
+xtick.direction: in
+
+ytick.major.size: 3
+ytick.minor.size: 1.5
+ytick.major.width: 0.5
+ytick.minor.width: 0.5
+ytick.major.pad: 2
+ytick.minor.pad: 2
+ytick.color: black
+ytick.labelsize: 7
+ytick.direction: in
+
+# Legend
+legend.frameon: False   # Cleaner without box
+legend.fontsize: 7
+legend.numpoints: 1
+legend.scatterpoints: 1
+
+# Lines
+lines.linewidth: 1
+lines.markersize: 3
+lines.markeredgewidth: 0.5
+
+# Images
+image.cmap: viridis
+image.interpolation: nearest
+
+# Saving
+savefig.bbox: tight
+savefig.pad_inches: 0.05
+savefig.dpi: 600

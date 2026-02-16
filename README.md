@@ -232,9 +232,9 @@ If you use AgriYOLO in your research, please cite this repository:
 ```bibtex
 @misc{agriyolo2024,
   title={AgriYOLO: Task-driven Asymmetric Lightweight Feature Fusion Network for Tiny Crop Disease Lesion Detection},
-  author={[Your Name]},
+  author={mimanchi-dongze},
   year={2024},
-  howpublished={\url{https://github.com/yourusername/AgriYOLO}},
+  howpublished={\url{https://github.com/mimanchi-dongze/AgriYOLO}},
   note={GitHub repository}
 }
 ```
@@ -264,8 +264,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📧 Contact
 
 For questions or collaborations, please contact:
-- **Email**: your.email@example.com
-- **Issues**: [GitHub Issues](https://github.com/yourusername/AgriYOLO/issues)
+- **Email**: mimanchi-dongze@users.noreply.github.com
+- **Issues**: [GitHub Issues](https://github.com/mimanchi-dongze/AgriYOLO/issues)
 
 ---
 

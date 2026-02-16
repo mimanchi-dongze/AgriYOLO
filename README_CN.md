@@ -232,9 +232,9 @@ python visualize/tal_ffn_visualizer.py
 ```bibtex
 @misc{agriyolo2024,
   title={AgriYOLO: Task-driven Asymmetric Lightweight Feature Fusion Network for Tiny Crop Disease Lesion Detection},
-  author={[您的姓名]},
+  author={mimanchi-dongze},
   year={2024},
-  howpublished={\url{https://github.com/yourusername/AgriYOLO}},
+  howpublished={\url{https://github.com/mimanchi-dongze/AgriYOLO}},
   note={GitHub repository}
 }
 ```
@@ -264,8 +264,8 @@ python visualize/tal_ffn_visualizer.py
 ## 📧 联系方式
 
 如有问题或合作意向，请联系：
-- **邮箱**: your.email@example.com
-- **Issues**: [GitHub Issues](https://github.com/yourusername/AgriYOLO/issues)
+- **邮箱**: mimanchi-dongze@users.noreply.github.com
+- **Issues**: [GitHub Issues](https://github.com/mimanchi-dongze/AgriYOLO/issues)
 
 ---
 
